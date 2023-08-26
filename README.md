@@ -1,6 +1,5 @@
-# Amazon Clone
-
-![20230826_013741](https://github.com/NavratanPatel/Amazon-Clone/assets/90257430/e099a436-f143-4a9f-9fb8-25722fd44188)
+# Amazon Clone 
+![20230826_013741](https://github.com/NavratanPatel/Amazon-Clone/assets/90257430/d512f3c1-f988-4301-afd6-0aea7a03d04a)
 
 ## Description
 - I've created an Amazon clone using HTML, CSS, and JavaScript exclusively.
@@ -31,7 +30,7 @@ View the live demo [here](https://username.github.io/amazon-clone).
 | `Box Layout` for Categories              | Organized layout to display product categories.       |
 | `Special Deals` Section                  | Section dedicated to displaying special offers.       |
 | `Footer` Of Webpage As Amazon            | Footer section with Amazon's branding and links.      |
-| Hover Effects                            | Interactive experience with hover effects on elements. |
+| `Hover` Effects                            | Interactive experience with hover effects on elements. |
 | CSS `Animation`                            | for the menu bar button effect.                      |
 
 
