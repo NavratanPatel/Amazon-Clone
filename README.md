@@ -52,7 +52,7 @@ View the live demo [here](https://username.github.io/amazon-clone).
 </pre>
 
 ## License
-
+[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE) <br>
 This project is licensed under the [MIT License](LICENSE).
 
 ## Connect with me
