@@ -19,7 +19,7 @@
 
 ## Demo
 
-View the live demo [here](https://username.github.io/amazon-clone).
+View the live demo [here](https://navratanpatel.github.io/Amazon-Clone/).
 
 ## Features
 
