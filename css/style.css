@@ -19,8 +19,8 @@
 }
 
 .nav-logo{
-    height: 50px;
-    width: 120px;
+    height: 3.125rem;
+    width: 7.5rem;
 }
 
 .logo-design{
@@ -372,8 +372,10 @@
     width: 1305px;
     padding: 8px 9px 8px 9px;
 }
-
-.snav-deals a{
+.deals-box1,.deals-box2{
+    display: inline-flex;
+}
+.deals-box1 a,.deals-box2 a{
     display: flex;
     align-items: center;
     min-width: 41.3;
@@ -757,4 +759,63 @@
 
 .fpanel5 span{
     display: block;
+}
+
+/* ********************** Responsive Website For Devices*************************************** */
+/* ******************************************************************************************* */
+
+@media only screen and (max-width: 1500px) {
+    .snav-update,.nav-orders,.nav-india{
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 1400px)
+{
+    .nav-search,.nav-address,.deals-box2{
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 1200px)
+{
+    .shop-section{
+        top: 280px;
+    }
+
+    .box{
+        height: 25%;
+        width: 43%;
+    }
+    .shop-section-height{
+        height: 2195px;
+    }
+}
+
+@media only screen and (max-width: 700px)
+{
+    .shop-section{
+        top: 230px;
+        background: linear-gradient(to bottom, rgba(226, 231, 230,0) 0.25%,rgba(226, 231, 230,1)25%, rgba(226, 231, 230,1)50%, rgba(226, 231, 230,1)100%);
+    }
+
+    .box{
+        height: 25%;
+        width: 80%;
+    }
+
+    .left-scroll,.right-scroll{
+        top: 82px;
+        height: 150px;
+    }
+
+    .shop-section-height{
+        height: 4740px;
+    }
+}
+
+@media only screen and (max-width:465px){
+    .menubar{
+        display: none;
+    }
 }
