@@ -31,7 +31,7 @@
 }
 
 .logo{
-    background-image: url("/Images/amazon_logo.png");
+    background-image: url("Images/amazon_logo.png");
     background-size: cover;
     height: 35px;
     width: 95px;
@@ -495,29 +495,29 @@
 }
 
 .box1-img{
-    background-image: url('/Images/box1_image.jpg');
+    background-image: url('Images/box1_image.jpg');
 }
 .box2-img{
-    background-image: url('/Images/box2_image.jpg');
+    background-image: url('Images/box2_image.jpg');
 }
 .box3-img{
-    background-image: url('/Images/box3_image.jpg');
+    background-image: url('Images/box3_image.jpg');
 }
 .box4-img{
-    background-image: url('/Images/box4_image.jpg');
+    background-image: url('Images/box4_image.jpg');
 }
 
 .box5-img{
-    background-image: url('/Images/box5_image.jpg');
+    background-image: url('Images/box5_image.jpg');
 }
 .box6-img{
-    background-image: url('/Images/box6_image.jpg');
+    background-image: url('Images/box6_image.jpg');
 }
 .box7-img{
-    background-image: url('/Images/box7_image.jpg');
+    background-image: url('Images/box7_image.jpg');
 }
 .box8-img{
-    background-image: url('/Images/box8_image.jpg');
+    background-image: url('Images/box8_image.jpg');
 }
 /**************New Layout Box Style**************/
 .deals-box-style{
@@ -543,58 +543,58 @@
 }
 
 .b1p1{
-    background-image: url('/Images/b1p1.jpg');
+    background-image: url('Images/b1p1.jpg');
 }
 .b1p2{
-    background-image: url('/Images/b1p2.jpg');
+    background-image: url('Images/b1p2.jpg');
 }
 .b1p3{
-    background-image: url('/Images/b1p3.jpg');
+    background-image: url('Images/b1p3.jpg');
 }
 .b1p4{
-    background-image: url('/Images/b1p4.jpg');
+    background-image: url('Images/b1p4.jpg');
 }
 
 
 .b2p1{
-    background-image: url('/Images/b2p1.jpg');
+    background-image: url('Images/b2p1.jpg');
 }
 .b2p2{
-    background-image: url('/Images/b2p2.jpg');
+    background-image: url('Images/b2p2.jpg');
 }
 .b2p3{
-    background-image: url('/Images/b2p3.jpg');
+    background-image: url('Images/b2p3.jpg');
 }
 .b2p4{
-    background-image: url('/Images/b2p4.jpg');
+    background-image: url('Images/b2p4.jpg');
 }
 
 
 .b3p1{
-    background-image: url('/Images/b3p1.jpg');
+    background-image: url('Images/b3p1.jpg');
 }
 .b3p2{
-    background-image: url('/Images/b3p2.jpg');
+    background-image: url('Images/b3p2.jpg');
 }
 .b3p3{
-    background-image: url('/Images/b3p3.jpg');
+    background-image: url('Images/b3p3.jpg');
 }
 .b3p4{
-    background-image: url('/Images/b3p4.jpg');
+    background-image: url('Images/b3p4.jpg');
 }
 
 
 .b4p1{
-    background-image: url('/Images/b4p1.jpg');
+    background-image: url('Images/b4p1.jpg');
 }
 .b4p2{
-    background-image: url('/Images/b4p2.jpg');
+    background-image: url('Images/b4p2.jpg');
 }
 .b4p3{
-    background-image: url('/Images/b4p3.jpg');
+    background-image: url('Images/b4p3.jpg');
 }
 .b4p4{
-    background-image: url('/Images/b4p4.jpg');
+    background-image: url('Images/b4p4.jpg');
 }
 
 .shop-section-height{
@@ -666,7 +666,7 @@
 }
 
 .fp-logo{
-    background-image: url('/Images/amazon_logo.png');
+    background-image: url('Images/amazon_logo.png');
     background-size: cover;
     height: 30px;
     width: 85px;
