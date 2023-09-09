@@ -30,8 +30,9 @@ View the live demo [here](https://navratanpatel.github.io/Amazon-Clone/).
 | `Box Layout` for Categories              | Organized layout to display product categories.       |
 | `Special Deals` Section                  | Section dedicated to displaying special offers.       |
 | `Footer` Of Webpage As Amazon            | Footer section with Amazon's branding and links.      |
-| `Hover` Effects                            | Interactive experience with hover effects on elements. |
-| CSS `Animation`                            | for the menu bar button effect.                      |
+| `Hover` Effects                          | Interactive experience with hover effects on elements. |
+| CSS `Animation`                          | for the menu bar button effect.                       |
+| `Responsiveness`                         | Responsive Webpage for Different Devices              |
 
 
 ## Technologies Used
